@@ -1,0 +1,4 @@
+django
+easy-thumbnails
+djangorestframework
+django-ckeditor
